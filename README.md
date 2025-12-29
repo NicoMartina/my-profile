@@ -24,6 +24,7 @@ Currently focused on mastering **Spring Boot**, **RESTful services**, and **prod
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" width="45"/>
 </p>
 
 ### Databases
