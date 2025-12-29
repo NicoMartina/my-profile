@@ -90,3 +90,16 @@ Currently focused on mastering **Spring Boot**, **RESTful services**, and **prod
 ⭐ **Always open to backend projects, collaborations, and learning opportunities!**
 
 </div>
+
+
+----
+
+# 🚀 My Stats
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicomartina&show_icons=true&locale=en&layout=compact" alt="nicomartina" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicomartina&show_icons=true&locale=en" alt="nicomartina" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicomartina&" alt="nicomartina" /></p>
+
